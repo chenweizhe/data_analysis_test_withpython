@@ -1,0 +1,45 @@
+import numpy as np
+
+# numpy shuzhide xiugai zhijie fuzhi jiuxing
+
+
+# numpy读取数据
+us_filePath = "./US_video_data_numbers.csv"
+us_videos_Path = "./USvideos.csv"
+
+uk_file_path = "./GB_video_data_numbers.csv"
+uk_videos_path = "./GBvideos.csv"
+
+# t1 = np.loadtxt(us_filePath,delimiter=',',dtype="int",unpack=True)
+# print(t1)
+t2 = np.loadtxt(us_filePath,delimiter=',',dtype="int",unpack=False)
+# t2[:,2:4] = 0
+# print(t2)
+
+t = np.arange(24).reshape(4,6)
+print(t)
+
+# jiang t zhong xiaoyu 10 de bufen xiugaiwei 3
+# shouxian yong yixiafangfa jiang t zhong xiaoyu 10 de zhaochulai
+print(t<10)
+# dierbu fuzhi
+t[t<10] = 3
+print(t)
+
+print('*'*100) # numpyzhongde buer suoyin
+# qu dayu 20 de shu
+print(t[t>20])
+t[t>20] = 30
+print(t)
+
+print('*'*100)
+
+# python de sanyuan yunsuanfu
+a = 3 if 3<2 else 4
+print(a)
+print('*'*100)
+# numpy de where yuju
+print(np.where(t<10,0,30)) #xiaoyu 10 de tihuancheng 0 qitadetihuancheng 30
+
+# numpy clip caozuo
+print(t.clip(10,18)) # jiang t zhong xiaoyu10de tihuancheng 10 dayu 18 de tihuancheng 18
