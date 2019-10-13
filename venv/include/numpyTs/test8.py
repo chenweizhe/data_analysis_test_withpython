@@ -7,7 +7,7 @@
 import numpy as np
 
 
-# print(t1)
+# print(t1) 将数组中的nan替换成数组的均值
 
 def fill_narray(t1):
     for i in range(t1.shape[1]):
