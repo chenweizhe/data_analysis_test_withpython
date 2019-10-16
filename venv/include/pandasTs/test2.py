@@ -11,7 +11,15 @@ import pandas as pd
 client = MongoClient()
 
 collection = client['local']['test']
-data = list(collection.find())
-t1 = data[0]
-pd.Series(t1)
-print(t1)
+data = collection.find()
+
+for i in data:
+    print(i)
+
+# t1 = data[0]
+# pd.Series(t1)
+# print(t1)
+
+df = pd.DataFrame(data)
+print(df)
+

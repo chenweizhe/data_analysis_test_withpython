@@ -12,4 +12,9 @@ print(df)
 
 # pd.read_sql()
 
-# 读取mongodb
+# pandas布尔索引
+# 联合布尔索引 不能连着写，需要括号括起来，然后用&符号连接起来
+print(df[(df["Count_AnimalName"]>800) & (df["Count_AnimalName"]<1000)])
+
+# 使用次数超过700 and 名字长度大于4
+print(df[(df["Row_Labels"].str.len()>4) & (df["Count_AnimalName"]>700)])
