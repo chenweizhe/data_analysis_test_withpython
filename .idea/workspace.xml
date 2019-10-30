@@ -28,18 +28,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/applicationTs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/task" />
     <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/venv/include/applicationTs" />
-      <recent name="$PROJECT_DIR$/venv/include/matplotlibTs" />
-      <recent name="$PROJECT_DIR$/venv/include" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv/include/pandasTs" />
       <recent name="$PROJECT_DIR$/venv/include/numpyTs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/include/task" />
+      <recent name="$PROJECT_DIR$/venv/include/applicationTs" />
+      <recent name="$PROJECT_DIR$/venv/include/matplotlibTs" />
+      <recent name="$PROJECT_DIR$/venv/include" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -54,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test9">
-    <configuration name="test10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +64,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/applicationTs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/task" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/task/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/applicationTs/test13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,19 +167,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test6" />
-      <item itemvalue="Python.test7" />
-      <item itemvalue="Python.test8" />
       <item itemvalue="Python.test9" />
-      <item itemvalue="Python.test10" />
+      <item itemvalue="Python.test11" />
+      <item itemvalue="Python.test12" />
+      <item itemvalue="Python.test13" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test13" />
+        <item itemvalue="Python.test12" />
+        <item itemvalue="Python.test11" />
         <item itemvalue="Python.test9" />
-        <item itemvalue="Python.test10" />
-        <item itemvalue="Python.test8" />
-        <item itemvalue="Python.test7" />
-        <item itemvalue="Python.test6" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +215,10 @@
       <workItem from="1571148735483" duration="227000" />
       <workItem from="1571179809389" duration="8254000" />
       <workItem from="1571873029847" duration="6405000" />
+      <workItem from="1572012426254" duration="1053000" />
+      <workItem from="1572013937111" duration="1097000" />
+      <workItem from="1572015392848" duration="2766000" />
+      <workItem from="1572423965579" duration="4861000" />
     </task>
     <servers />
   </component>
@@ -248,16 +253,20 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test2$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1571880858491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
     <SUITE FILE_PATH="coverage/test2$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1571878015727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
-    <SUITE FILE_PATH="coverage/test2$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1571107482034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1572430710512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/task" />
     <SUITE FILE_PATH="coverage/test2$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1571195301607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
-    <SUITE FILE_PATH="coverage/test2$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1571109449776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
-    <SUITE FILE_PATH="coverage/test2$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1571878914097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
     <SUITE FILE_PATH="coverage/test2$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1571880461165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
-    <SUITE FILE_PATH="coverage/test2$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1571113723262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1572016312770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
     <SUITE FILE_PATH="coverage/test2$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1571195847330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
     <SUITE FILE_PATH="coverage/test2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1570408474419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
+    <SUITE FILE_PATH="coverage/test2$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1572016907818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1571880858491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1571107482034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1571109449776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1571878914097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test13.coverage" NAME="test13 Coverage Results" MODIFIED="1572017559929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
+    <SUITE FILE_PATH="coverage/test2$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1571113723262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
     <SUITE FILE_PATH="coverage/test2$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1571182387595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/applicationTs" />
   </component>
 </project>
